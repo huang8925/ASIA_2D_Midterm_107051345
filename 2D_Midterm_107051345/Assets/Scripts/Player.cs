@@ -15,13 +15,13 @@ public class Player : MonoBehaviour
             print("碰到傳送門");
             final.SetActive(true);
         }
-        if (collision.tag == "star")
+        if (collision.tag == "boy")
         {
             Destroy(collision.gameObject);
 
             count++;
 
-            textCount.text = "score:" + count;
+            textCount.text = "男孩數量:" + count;
 
         }
     }
