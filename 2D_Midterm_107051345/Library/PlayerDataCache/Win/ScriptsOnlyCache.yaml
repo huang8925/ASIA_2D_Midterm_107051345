@@ -71,25 +71,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11186}
+      Script: {instanceID: 11170}
     - Class: 114
-      Script: {instanceID: 11474}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11528}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 12070}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 12190}
+      Script: {instanceID: 12174}
     - Class: 114
-      Script: {instanceID: 12888}
+      Script: {instanceID: 12872}
     - Class: 114
-      Script: {instanceID: 13410}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 13650}
+      Script: {instanceID: 13634}
     - Class: 114
-      Script: {instanceID: 14160}
+      Script: {instanceID: 14144}
     - Class: 114
-      Script: {instanceID: 14262}
+      Script: {instanceID: 14246}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -146,31 +146,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 586}
     - Class: 114
-      Script: {instanceID: 11186}
+      Script: {instanceID: 11170}
     - Class: 114
-      Script: {instanceID: 11474}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11528}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11636}
+      Script: {instanceID: 11620}
     - Class: 114
-      Script: {instanceID: 12070}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 12190}
+      Script: {instanceID: 12174}
     - Class: 114
-      Script: {instanceID: 12888}
+      Script: {instanceID: 12872}
     - Class: 114
-      Script: {instanceID: 13404}
+      Script: {instanceID: 13388}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13466}
     - Class: 114
-      Script: {instanceID: 13650}
+      Script: {instanceID: 13634}
     - Class: 114
-      Script: {instanceID: 14070}
+      Script: {instanceID: 14054}
     - Class: 114
-      Script: {instanceID: 14262}
+      Script: {instanceID: 14246}
     - Class: 114
-      Script: {instanceID: 14304}
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -716,4 +716,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - "Assets/\u5834\u666F/\u9078\u55AE.unity"
   - "Assets/\u5834\u666F/\u95DC\u53611.unity"
-  playerPath: C:/Users/user/Desktop/ASIA_2D_Midterm_107051345/Exe/2D_Midterm_107051345.exe
+  playerPath: C:/Users/HUANG/Desktop/ASIA_2D_Midterm_107051345/Exe/2D_Midterm_107051345.exe
